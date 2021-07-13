@@ -1,0 +1,21 @@
+
+
+body {
+    margin: auto;
+    
+}
+
+li {
+    width: 60vw;
+    list-style-type: none;
+    font-size: 1em;
+    margin: 5px;
+    border-radius: 10px;
+   
+}
+
+li:nth-child(even) {
+    background-color: #aaff9f;
+
+}
+
